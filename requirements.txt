@@ -1,0 +1,12 @@
+faiss-cpu
+numpy
+pandas
+torch
+requests
+sentence-transformers
+langchain
+datasets
+ragas
+transformers
+tqdm
+langchain-openai

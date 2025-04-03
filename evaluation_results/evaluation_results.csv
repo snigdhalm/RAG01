@@ -1,0 +1,275 @@
+user_input,retrieved_contexts,response,reference,context_precision,context_recall,faithfulness,answer_relevancy,answer_correctness,trustworthiness_score,query,answer,ground_truth,overall_trustworthiness_score,is_trustworthy
+What should I do if my card is stolen or damaged?,"['3. What should I do if my Debit Card is lost or stolen, and how can I block it immediately?\nIf your Kotak Mahindra Bank Debit Card is lost, stolen, or damaged, it is important to block the card immediately to prevent unauthorized transactions. You can block your card through the following channels:\n1. Kotak Net Banking:\n* Log in to your account at www.kotak.com.\n* Go to Service Requests > Debit Card Service Requests > Report Loss of Card.', '• If you suspect that the security of your card has been breached, \nplease contact our 24-hour Customer Contact Centre immediately.\n•  Do not bend your Card. Do not leave your Card near any electronic \ngadget. This can damage the magnetic strip on your Card\n•  Avoid exposing your Card to sunlight.\n•  If your Card gets damaged, just call our 24-hour customer contact \ncentre and we shall arrange to replace it at the earliest.\nCare for your card', 'Replacement Process:\nAfter blocking your card, you can request a replacement through:\n* Net Banking\n* Mobile Banking App\n* Customer Care Helpline\nThe replacement card will be issued and delivered to your registered address.\nImportant Tips:\n* Always report lost cards immediately to avoid liability.\n* Do not share your PIN, CVV, or OTP with anyone.\n* Keep a copy of the First Information Report (FIR) if you report the loss to the police.', 'visit www.VISA.com. Charges for using VISA Global Assistance Services \nas applicable will be debited to your account.\nYou can also call us at 0091-22-6600 6022 to report the loss/theft of \nyour Card.\nOn reporting of the loss/theft, your Card will immediately be deactivated \nto prevent misuse. Please report the loss/theft of the Card to the nearest \nlocal police authority and forward a copy of the FIR to us.\nReport the loss/theft of card\n•  Your Card is for your personal use only, do not hand it over to', 'Report the loss/theft of your card immediately to any branch of \nKotak Mahindra Bank or call our 24-hour customer contact centre at \n1860 266 2666 (local call charges apply)\nAbroad you can report your lost Card immediately by calling VISA Global \nAssistance Services Helpline at the following toll-free numbers:\nFor more information on VISA Global Assistance Numbers in other \ncountries, you can check the local telephone directories / yellow pages or']","If your Debit Card is lost or stolen, and it's damaged, to block the card immediately:
+
+1. Log in to your account through Kotak Net Banking at www.kotak.com.
+2. Go to Service Requests > Debit Card Service Requests > Report Loss of Card.
+3. If you suspect that the security of your card has been breached, contact our 24-hour Customer Contact Centre immediately.
+4. Do not bend or touch your Card; leave it near electronic gadgets, do not expose it to sunlight, and avoid using a magnetic strip if damaged.
+
+To report the loss/stolen damage:
+
+1. Call our 24-hour customer contact centre at 1860 266 2666 (local call charges apply).
+2. Forward a copy of the First Information Report (FIR) to us immediately.
+3. Do not share your PIN, CVV, or OTP with anyone.
+
+Your Card will be deactivated to prevent misuse and you can request a replacement through:
+
+* Net Banking
+* Mobile Banking App
+* Customer Care Helpline
+
+Remember, always report lost cards immediately to avoid liability, do not share personal details, and keep a copy of the FIR for your records.","Certainly! If you've lost your debit card, follow these steps immediately:
+        1. Visit Kotak Net Banking: Go to www.kotak.com and navigate to Service Requests > Debit Card Service Requests > Report Loss of Card.
+        2. Report Your Loss: Fill out the form provided on the website, include a copy of your First Information Report if necessary, and submit it for processing.
+        3. Contact Kotak Bank Support: Use your local police contact number (0091-22-6600 6022) to report the loss of your debit card after following any instructions provided by the bank's customer care helpline.
+        4. Block Your Card Immediately: After reporting the loss, you will be deactivated from future transactions. Ensure this step is taken as soon as possible.
+        5. Apply for Replacement Card (If Needed): If your card was used by a merchant, visit the same banking channels to request an application for a replacement card.
+        By following these steps, you can ensure your debit card is immediately blocked and prevent unauthorized activities. ",,0.75,,0.5447330065306256,,,What should I do if my card is stolen or damaged?,"If your Debit Card is lost or stolen, and it's damaged, to block the card immediately:
+
+1. Log in to your account through Kotak Net Banking at www.kotak.com.
+2. Go to Service Requests > Debit Card Service Requests > Report Loss of Card.
+3. If you suspect that the security of your card has been breached, contact our 24-hour Customer Contact Centre immediately.
+4. Do not bend or touch your Card; leave it near electronic gadgets, do not expose it to sunlight, and avoid using a magnetic strip if damaged.
+
+To report the loss/stolen damage:
+
+1. Call our 24-hour customer contact centre at 1860 266 2666 (local call charges apply).
+2. Forward a copy of the First Information Report (FIR) to us immediately.
+3. Do not share your PIN, CVV, or OTP with anyone.
+
+Your Card will be deactivated to prevent misuse and you can request a replacement through:
+
+* Net Banking
+* Mobile Banking App
+* Customer Care Helpline
+
+Remember, always report lost cards immediately to avoid liability, do not share personal details, and keep a copy of the FIR for your records.","Certainly! If you've lost your debit card, follow these steps immediately:
+        1. Visit Kotak Net Banking: Go to www.kotak.com and navigate to Service Requests > Debit Card Service Requests > Report Loss of Card.
+        2. Report Your Loss: Fill out the form provided on the website, include a copy of your First Information Report if necessary, and submit it for processing.
+        3. Contact Kotak Bank Support: Use your local police contact number (0091-22-6600 6022) to report the loss of your debit card after following any instructions provided by the bank's customer care helpline.
+        4. Block Your Card Immediately: After reporting the loss, you will be deactivated from future transactions. Ensure this step is taken as soon as possible.
+        5. Apply for Replacement Card (If Needed): If your card was used by a merchant, visit the same banking channels to request an application for a replacement card.
+        By following these steps, you can ensure your debit card is immediately blocked and prevent unauthorized activities. ",,No :(
+How to talk to customer care?,"['please call up our 24-hour customer contact centre and our Customer \nCare Officer will be glad to assist you.\nUsing Net Banking\nNETBANKING', 'www.kotak.com for more information, \nor call our 24-hour Customer Contact \nCentre at 1860 266 2666 (local call \ncharges apply), and our Customer Care \nOfficers will be glad to assist you.\nWORLD OF\nCONVENIENCE\nBANKING', '1. Phone Banking (24x7 Customer Contact Centre)\n📞 Dial 1860 266 2666 (local call charges apply) for personalized assistance.\n✅ Services Available via Phone Banking:\n         * Account balance inquiries.\n         * Fund transfers within Kotak accounts.\n         * Cheque book requests, stop cheque payments.\n         * Debit/Credit Card services (blocking, reissue, activation).\n         * Fixed deposit and loan-related inquiries.\n         * Report lost/stolen cards or fraudulent transactions.\nHow to Access:', '9. What customer support services are available (phone banking, WhatsApp banking, home banking), and how can I access them?\nKotak Mahindra Bank offers multiple customer support channels for banking assistance, service requests, and issue resolution. These include Phone Banking, WhatsApp Banking, and Home Banking for customer convenience.\n________________', ""And what's more, this facility comes to you absolutely free of cost!*\n* Conditions Apply\nTo access Phone Banking, you simply need to enter your Customer \nRelationship Number and your Phone Banking PIN.\nYour Customer Relationship Number is communicated to you on your \nwelcome letter and is also available on your Kotak Debit Card for easy \nreference. Your Phone Banking PIN is couriered to you separately. In case \nyou have not received your Phone Banking PIN, please call up our""]","You can contact us at the following options:
+
+To access Phone Banking (24x7 Customer Contact Centre): 
+   1. Dial 1860 266 2666 (local call charges apply)
+   
+To access other customer support channels:
+   1. WhatsApp Banking: Send a message to [ Kotak Bank](https://www.kotak.com/) using the ""WhatsApp"" feature on their website.
+   2. Home Banking: Visit [www.kotak.com](http://www.kotak.com) and use your login credentials for convenience.","1. Phone Banking (24x7)
+        Call: 1860 266 2666 (local charges apply)
+        Services: Balance inquiry, fund transfers, card services, loan inquiries, report lost cards
+        
+        2. WhatsApp Banking (24x7)
+        Save: 022-66006022 and send “Help” on WhatsApp
+        Services: Check balance, statements, bill payments, dispute transactions, loan details
+        
+        3. Home Banking (Available in select locations)
+        Request via Net Banking or Phone Banking
+        Services: Cash/cheque pick-up, demand draft delivery
+        
+        4. Keya Chatbot (AI Assistant - 24x7)
+        Access via Website, Mobile App, or WhatsApp
+        Services: Account info, statements, payments, dispute resolution
+        
+        5. Fraud Reporting (For urgent issues)
+        Call: 1800 209 0000 or visit Fraud Reporting Portal
+        Services: Report unauthorized transactions, block stolen cards
+        
+        For more help, visit a Kotak branch or use Net/Mobile Banking. ",,,,0.24318704205619604,,,How to talk to customer care?,"You can contact us at the following options:
+
+To access Phone Banking (24x7 Customer Contact Centre): 
+   1. Dial 1860 266 2666 (local call charges apply)
+   
+To access other customer support channels:
+   1. WhatsApp Banking: Send a message to [ Kotak Bank](https://www.kotak.com/) using the ""WhatsApp"" feature on their website.
+   2. Home Banking: Visit [www.kotak.com](http://www.kotak.com) and use your login credentials for convenience.","1. Phone Banking (24x7)
+        Call: 1860 266 2666 (local charges apply)
+        Services: Balance inquiry, fund transfers, card services, loan inquiries, report lost cards
+        
+        2. WhatsApp Banking (24x7)
+        Save: 022-66006022 and send “Help” on WhatsApp
+        Services: Check balance, statements, bill payments, dispute transactions, loan details
+        
+        3. Home Banking (Available in select locations)
+        Request via Net Banking or Phone Banking
+        Services: Cash/cheque pick-up, demand draft delivery
+        
+        4. Keya Chatbot (AI Assistant - 24x7)
+        Access via Website, Mobile App, or WhatsApp
+        Services: Account info, statements, payments, dispute resolution
+        
+        5. Fraud Reporting (For urgent issues)
+        Call: 1800 209 0000 or visit Fraud Reporting Portal
+        Services: Report unauthorized transactions, block stolen cards
+        
+        For more help, visit a Kotak branch or use Net/Mobile Banking. ",,No :(
+How can I activate my debit card?,"['2. How can I activate and use my Kotak Mahindra Bank Debit Card for online transactions?\nBy default, your Kotak Mahindra Bank Debit Card is inactive for online, contactless, and international transactions for security reasons. To enable online transactions, follow these steps:\nActivation Steps:\n1. Via Kotak Mobile Banking App:\n   * Log in to the Kotak Mobile Banking App.\n   * Navigate to Service Requests > Debit Card Service Requests.', ""Your Kotak bank Debit Card can be used at all ATMs (Kotak Mahindra \nBank or other banks ATMs affiliated with NFS or Cashnet) with a six digit \nPersonal Identification Number (PIN) which can be generated using a \nGreen PIN channel.\nAdditionally for your safety, the Debit Card is sent to you, inactive for use \nof contactless payments, e-commerce & tokenisation. You can activate \nyour Card by using it at any Kotak Mahindra Bank or any other bank's \nATMs affiliated to Cashnet."", '* Select ""Enable Online Transactions"" and follow the on-screen instructions.\n2. Via Kotak Net Banking:\n   * Log in to Kotak Net Banking at www.kotak.com.\n   * Go to Service Requests > Debit Card Controls.\n   * Enable online transactions under the card settings section.\n3. Via QR Code (If provided with your card):\n   * Scan the QR code on the card kit to instantly enable online, contactless, and international transactions.\n4. Via ATM Transaction:', ""• Enter your Personal Identification Number (PIN).\n•  Touch the required option on the screen to make your selection in  \n case of touch-screen ATMs. In case of non-touch screen ATMs,   \n simply press the button beside the option on the screen.\n•  Just follow the simple instructions on the screen.\nPlease do not hand over your Card or disclose your PIN to anyone. Do \nremember to take your Customer Advice and Card before you leave.\n'Access India Debit Card can be used at \nestablishments in India only."", 'which accept the corresponding Network Cards.\n6. Electronic Usage Sign: Your card can be only used at electronic Point \nof Sale Swipe Terminals of any Merchant Establishment bearing the \nNetwork Electron logo.This is Non Mandatory field and few cards may \nnot have this.\nANITA KUMAR\nFRONT\n1. Magnetic Strip: Encodes all vital information pertaining to your Debit \nCard. Take care to keep it away from magnets and magnetic fields. \nPlease ensure that it does not get scratched.']","To activate your Kotak Mahindra Bank Debit Card for online transactions:
+
+You can activate your Debit Card by using it at any Kotak Mahindra Bank or Cashnet ATM, or by enrolling in the ""Debit Card Service Request"" through the Kotak Mobile Banking App.","To activate your Kotak Mahindra debit card, follow these steps:
+        
+        1. Via kotak Mobile Banking App:
+        - Log in to the kotak Mobile Banking App.
+        - Navigate to Service Requests > Debit Card Service Requests.
+        - Enable online transactions by selecting ""Enable Online Transactions"" and following on-screen instructions.
+        
+        2. Via Kotak Net Banking:
+        - Log in to your account via the web interface [www.kotak.com].
+        - Go to Service Requests > Debit Card Controls.
+        - In the card settings, enable online transactions under ""Debit Card Enable Online Transactions.""
+        
+        3. Via call:
+        -  Call our 24/7 Phone Banking Number at 1860 266 2666.
+        -  Authenticate using your Customer Relationship Number (CRN) and Phone Banking PIN.
+        -  Request activation of your debit card over the phone.
+        
+        4. Via ATM Transaction:
+        - Log into your account at the nearest ATMs or cash centers in India.
+        - Use the Debit Card to complete transactions, which will be enabled for online, contactless, and international use.
+        
+        Remember:
+        - All operations are secure and conducted through official channels.
+        - Debit cards are only active during business hours as specified by the bank.
+        - Keep your debit card active throughout its life for maximum convenience.",,0.8571428571428571,,0.6483867157798265,,,How can I activate my debit card?,"To activate your Kotak Mahindra Bank Debit Card for online transactions:
+
+You can activate your Debit Card by using it at any Kotak Mahindra Bank or Cashnet ATM, or by enrolling in the ""Debit Card Service Request"" through the Kotak Mobile Banking App.","To activate your Kotak Mahindra debit card, follow these steps:
+        
+        1. Via kotak Mobile Banking App:
+        - Log in to the kotak Mobile Banking App.
+        - Navigate to Service Requests > Debit Card Service Requests.
+        - Enable online transactions by selecting ""Enable Online Transactions"" and following on-screen instructions.
+        
+        2. Via Kotak Net Banking:
+        - Log in to your account via the web interface [www.kotak.com].
+        - Go to Service Requests > Debit Card Controls.
+        - In the card settings, enable online transactions under ""Debit Card Enable Online Transactions.""
+        
+        3. Via call:
+        -  Call our 24/7 Phone Banking Number at 1860 266 2666.
+        -  Authenticate using your Customer Relationship Number (CRN) and Phone Banking PIN.
+        -  Request activation of your debit card over the phone.
+        
+        4. Via ATM Transaction:
+        - Log into your account at the nearest ATMs or cash centers in India.
+        - Use the Debit Card to complete transactions, which will be enabled for online, contactless, and international use.
+        
+        Remember:
+        - All operations are secure and conducted through official channels.
+        - Debit cards are only active during business hours as specified by the bank.
+        - Keep your debit card active throughout its life for maximum convenience.",,No :(
+How can I apply for personal loan?,"['8. How can I apply for a loan (personal, home, business) through Kotak Mahindra Bank, and what are the eligibility criteria?\nKotak Mahindra Bank offers various loan options, including Personal Loans, Home Loans, and Business Loans, which can be applied for online or at a branch.\n1. How to Apply for a Loan?\na) Via Kotak Mobile Banking App\n         1. Log in to the Kotak Mobile Banking App.\n         2. Navigate to ‘Loans’ and select the loan type (Personal/Home/Business).', '• Pay all your utility bills with the convenience of just one app (Electricity bills, \nGas bills, Water bills, and many more)\n• Quick Recharges for Mobile, FASTag, DTH/Cable etc.\n• Set up an AutoPay for all your upcoming bill payments.\n• Apply for Home Loan, Personal Loan, Pay Day Loan, Consumer Durable \nLoan , Business Loan and much more\n• Check your loan details & get a free credit score check\n• Discover and Apply for Pre-approved Loan Offers.\nBill payments and recharge\nLoans', 'c) Visit a Kotak Mahindra Bank Branch\n         * Customers can visit their nearest Kotak branch with required documents.\n         * A bank representative will assist in filling out the application.\nd) Customer Care Helpline\n         * Call 1860 266 2666 to check loan eligibility and initiate the application process.\n2. Eligibility Criteria for Loans\nA) Personal Loan\nEligibility:\n         * Indian residents aged 21 to 60 years.\n         * Salaried professionals with a minimum monthly income of ₹25,000.', '3. Check for pre-approved offers (if applicable).\n         4. Fill in the required details and submit your application.\n         5. Upload necessary documents (if required).\n         6. Track application status through the app.\nb) Via Kotak Net Banking\n         1. Log in to Kotak Net Banking at www.kotak.com.\n         2. Go to Loan Section > Apply for a Loan.\n         3. Choose the loan type and enter the required details.\n         4. Upload documents (if applicable) and submit.', '3. Loan Approval & Disbursal Time\n         * Personal Loans: Instant to 48 hours (for pre-approved customers).\n         * Home Loans: 5 to 10 working days.\n         * Business Loans: 7 to 15 working days.\nFor detailed loan eligibility and interest rates, visit www.kotak.com or call 1860 266 2666.']","You can apply for a Personal Loan through Kotak Mahindra Bank by:
+
+1. Logging in to your Kotak Mobile Banking App.
+2. Navigating to 'Loans' and selecting the loan type (Personal/Home/Business).
+3. Paying all utility bills with the convenience of just one app (Electricity bills, Gas bills, Water bills, etc.)
+4. Setting up an AutoPay for upcoming bill payments.
+5. Applying online through your Mobile App.
+
+You can also visit a Kotak Mahindra Bank Branch with required documents and a bank representative will assist in filling out the application. Additionally, you can call 1860 266 2666 to check loan eligibility and initiate the application process.","To apply for a personal loan through Kotak Mahindra Bank, follow these steps:
+        
+        1. Via Kotak Mobile Banking App
+        - Log in to the otak mobile banking app using your account details.  
+        - Navigate to the ""Loans"" section and select the type of loan you want (Personal Loan).  
+        - Pay all utility bills with the convenience of logging into one app, which includes electric, gas, water, and other bills.  
+        - Set up auto-repay for upcoming bill payments.  
+        
+        2. Via Kotak Net Banking
+        - Log in to Kotak net banking using your account details at [www.kotak.com](https://www.kotak.com).  
+        - Go to the ""Loan Section"" and select ""Apply for a Loan.""  
+        - Choose the loan type (Personal, Home, or Business) and enter required details.  
+        
+        3. Customer Care Helpline  
+        - Call 1860 266 2666 for loan eligibility checks and to initiate the application process.
+        
+        4. Branch Visit
+        - Visit the nearest Kotak branch with your KYC and income documents.
+        
+        Eligibility Criteria for Personal Loans:
+        - Indian residents aged between 21 years and 60 years of age.  
+        - Salaried professionals with a minimum monthly income of ₹25,000 (as of [current year](https://www.kotak.com/current-criteria/)).  
+        
+        For more details on other loan types like home or business loans, visit the bank's website at [www.kotak.com](https://www.kotak.com).",,0.6666666666666666,,0.0,,,How can I apply for personal loan?,"You can apply for a Personal Loan through Kotak Mahindra Bank by:
+
+1. Logging in to your Kotak Mobile Banking App.
+2. Navigating to 'Loans' and selecting the loan type (Personal/Home/Business).
+3. Paying all utility bills with the convenience of just one app (Electricity bills, Gas bills, Water bills, etc.)
+4. Setting up an AutoPay for upcoming bill payments.
+5. Applying online through your Mobile App.
+
+You can also visit a Kotak Mahindra Bank Branch with required documents and a bank representative will assist in filling out the application. Additionally, you can call 1860 266 2666 to check loan eligibility and initiate the application process.","To apply for a personal loan through Kotak Mahindra Bank, follow these steps:
+        
+        1. Via Kotak Mobile Banking App
+        - Log in to the otak mobile banking app using your account details.  
+        - Navigate to the ""Loans"" section and select the type of loan you want (Personal Loan).  
+        - Pay all utility bills with the convenience of logging into one app, which includes electric, gas, water, and other bills.  
+        - Set up auto-repay for upcoming bill payments.  
+        
+        2. Via Kotak Net Banking
+        - Log in to Kotak net banking using your account details at [www.kotak.com](https://www.kotak.com).  
+        - Go to the ""Loan Section"" and select ""Apply for a Loan.""  
+        - Choose the loan type (Personal, Home, or Business) and enter required details.  
+        
+        3. Customer Care Helpline  
+        - Call 1860 266 2666 for loan eligibility checks and to initiate the application process.
+        
+        4. Branch Visit
+        - Visit the nearest Kotak branch with your KYC and income documents.
+        
+        Eligibility Criteria for Personal Loans:
+        - Indian residents aged between 21 years and 60 years of age.  
+        - Salaried professionals with a minimum monthly income of ₹25,000 (as of [current year](https://www.kotak.com/current-criteria/)).  
+        
+        For more details on other loan types like home or business loans, visit the bank's website at [www.kotak.com](https://www.kotak.com).",,No :(
+how to check my balance on mobile banking app?,"['Mobile Banking Mobile Banking Features\nGet access to over 250+ features on the Kotak Mobile Banking App\n1. Open the Kotak Mobile Banking App or Scan the QR to download the \napp\n2. Register yourself in the app using your bank registered mobile number \nand activate the app instantly\n3. Set your MPIN using your Debit/Credit/Forex card or net banking \npassword\n4. Use your new MPIN to login and access all the features of the app\nThe Kotak Mobile Banking App, a best-in-class App, provides banking on the', '3. Select the transfer method (listed below).\n4. Enter the recipient’s details (Account Number, UPI ID, or Mobile Number).\n5. Enter the transfer amount and add a remark (optional).\n6. Verify the transaction using OTP or MPIN.\n7. Once confirmed, the transaction will be processed, and you will receive an SMS alert.\nAvailable Transfer Methods in Kotak Mobile Banking App:\n1. UPI (Unified Payments Interface) Transfers\nSend money using a UPI ID, Mobile Number, or UPI QR Code.', ""below Average Quarterly Balance Alert, Periodic Bank Account, Balance \n- Daily/Weekly (sent every Monday) and Standing Instruction (SI) Failure \nAlert.\nIn addition to the subscription alerts, you will receive security alerts for all \ntransactions done online.\nSMS Banking Services\nKotak Mahindra Bank's SMS Banking service enables you to access your \nBank account, Investment account and Demat account on your Mobile \nPhone.\nIt is quick and easy, available to you 24X7 and it's absolutely free! (SMS"", 'downloaded from Playstore and App Store.\nIos QR code Android Qr code\n• View your account balance, account activity, account details and cheque \nstatus\n• Open a Fixed Deposit, Recurring Deposit & Tax Saving Deposit or view \ndetails of all your term deposits.\n• Request for your account statements or order a cheque book.\n• Apply for Credit Card, Forex Card, Smart EMI Card, Kotak Gift Card or a \nDebit Card upgrade.\n• Open a Prepaid Spendz account to track your everyday payments.', 'go, which is a must in today’s digital era. The app offers a feature-rich mobile \nbanking experience with 250+ features live.\nYou can use the various features of the mobile banking app to access your \naccount details, Pay bills, Invest, Shop, Apply for Loans, Cards and other services \nfrom the bank. You can also raise service requests for your account and services \nrelated requests right from the app.\nAvailable in both Android and iOS, the Kotak Mobile Banking App can be']","To check your account balance on the Kotak Mobile Banking App, follow these steps:
+
+1. Open the app or tap the ""Login"" button.
+2. Enter your registered mobile number and verify it using SMS or OTP.
+3. Go to the ""Account Summary"" tab.
+4. Your current account balance will be displayed.
+
+Alternatively, you can also use the following method:
+
+* Tap on the three horizontal lines (Menu) in the top left corner of the screen.
+* Select ""Account Details"" from the menu.
+* Scroll down and select ""Account Balance"".
+* You can then enter your mobile number to view your account balance.","1. Log in to the Kotak Mobile Banking App using MPIN, Fingerprint, or Net Banking credentials.
+        2. On the home screen, your account balance will be displayed.
+        3. If not visible, go to ‘Banking’ > ‘Account Details’ to view your balance.
+        4. You can also check via WhatsApp Banking by sending “Balance” to 022-66006022.
+        For further assistance, call 1860 266 2666.",,0.2,0.25,0.3165882572795882,,,how to check my balance on mobile banking app?,"To check your account balance on the Kotak Mobile Banking App, follow these steps:
+
+1. Open the app or tap the ""Login"" button.
+2. Enter your registered mobile number and verify it using SMS or OTP.
+3. Go to the ""Account Summary"" tab.
+4. Your current account balance will be displayed.
+
+Alternatively, you can also use the following method:
+
+* Tap on the three horizontal lines (Menu) in the top left corner of the screen.
+* Select ""Account Details"" from the menu.
+* Scroll down and select ""Account Balance"".
+* You can then enter your mobile number to view your account balance.","1. Log in to the Kotak Mobile Banking App using MPIN, Fingerprint, or Net Banking credentials.
+        2. On the home screen, your account balance will be displayed.
+        3. If not visible, go to ‘Banking’ > ‘Account Details’ to view your balance.
+        4. You can also check via WhatsApp Banking by sending “Balance” to 022-66006022.
+        For further assistance, call 1860 266 2666.",,No :(
+Is it safe to transfer online through kotak?,"['Security Features Please Note\nTo help you with a safe and secure banking experience, Kotak Mobile \nBanking app ensures your transactions are authorised and secured\nFeatures:\n• 2 Factor Authentication protection for all fund transfer \ntransactions.\n• Transaction confirmation alerts on transactions performed on the \napp to keep you informed of any activity on your account\n• Email alerts on every incorrect login attempt to appraise you of your \naccount access', 'Ideal for internal transfers or payments to family/friends who have Kotak accounts.\n6. Pay Your Contact (Send Money Using Mobile Number)\nTransfer money to any mobile number linked to Kotak UPI or any other bank’s UPI.\nNo need to enter account details—quick and easy!\n7. Scheduled & Recurring Transfers\nSet up standing instructions for rent, EMIs, bill payments, and subscriptions.\nAutomates payments for a hassle-free experience.\nAdditional Features:', '• Transfer money through various methods (IMPS, NEFT, RTGS UPI, Kotak to \nKotak Third Party Fund Transfer and Self Transfer).\n• Add/Manage and send money to your beneficiaries or send money \nabroad\n• Use Pay Your Contact to send money with just mobile numbers, without \nthe need to enter account or UPI details\n• You can also do a one-time transfer without adding a beneficiary by \nsimply entering the account details.\n• Setup scheduled payments for a one-time transfer or recurring payments', 'Additional Features:\n* One-time transfer without adding a beneficiary (for UPI & IMPS).\n* Add/manage beneficiaries for quick future transactions.\n* Track transfer history and pending payments within the app.\n* Receive transaction confirmation alerts via SMS & email.\nFor any issues, call Kotak Customer Care at 1860 266 2666.', 'For further assistance, call 1860 266 2666 or visit www.kotak.com.\n10. How does Kotak Mahindra Bank ensure security and fraud protection for its customers in online banking and transactions?\nKotak Mahindra Bank implements multiple security measures to protect customers from fraud, unauthorized transactions, and cyber threats. These security protocols apply to Net Banking, Mobile Banking, Debit/Credit Cards, UPI, and other digital banking services.\n________________']","Yes, transferring funds online through Kotak is generally considered safe, as Kotak Mahindra Bank implements multiple security measures to protect customers from fraud, unauthorized transactions, and cyber threats. These measures include:
+
+* 2-factor authentication protection for all fund transfer transactions
+* Transaction confirmation alerts on transactions performed on the app to keep you informed of any activity on your account
+* Email alerts on every incorrect login attempt to appraise you of your account access
+
+These security features help ensure that your online transactions are secure and trustworthy. However, as with any banking service, it's essential to follow best practices for online security, such as using strong passwords, keeping software up-to-date, and being cautious when opening links or downloading attachments from unknown sources.","Yes, transferring money online through Kotak Mahindra Bank is safe. We use 128-bit SSL encryption, two-factor authentication (OTP-based verification), and transaction alerts for security. 
+        Your Net Banking and Mobile Banking access are protected with strong password policies, auto-logout features, and device binding for UPI transactions.
+        For added safety, always log in via www.kotak.com, avoid sharing OTPs or passwords, and monitor SMS/email alerts. 
+        If you suspect fraud, call 1800 209 0000 immediately.",,1.0,0.25,0.8680597416716699,,,Is it safe to transfer online through kotak?,"Yes, transferring funds online through Kotak is generally considered safe, as Kotak Mahindra Bank implements multiple security measures to protect customers from fraud, unauthorized transactions, and cyber threats. These measures include:
+
+* 2-factor authentication protection for all fund transfer transactions
+* Transaction confirmation alerts on transactions performed on the app to keep you informed of any activity on your account
+* Email alerts on every incorrect login attempt to appraise you of your account access
+
+These security features help ensure that your online transactions are secure and trustworthy. However, as with any banking service, it's essential to follow best practices for online security, such as using strong passwords, keeping software up-to-date, and being cautious when opening links or downloading attachments from unknown sources.","Yes, transferring money online through Kotak Mahindra Bank is safe. We use 128-bit SSL encryption, two-factor authentication (OTP-based verification), and transaction alerts for security. 
+        Your Net Banking and Mobile Banking access are protected with strong password policies, auto-logout features, and device binding for UPI transactions.
+        For added safety, always log in via www.kotak.com, avoid sharing OTPs or passwords, and monitor SMS/email alerts. 
+        If you suspect fraud, call 1800 209 0000 immediately.",,No :(
